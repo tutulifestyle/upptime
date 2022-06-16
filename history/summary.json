@@ -4,35 +4,39 @@
     "url": "https://tutulifestyle.com",
     "icon": "https://favicons.githubusercontent.com/tutulifestyle.com",
     "slug": "linktree",
-    "status": "up",
-    "uptime": "99.86%",
+    "status": "down",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 148,
-    "timeWeek": 138,
-    "timeMonth": 165,
+    "timeDay": 115,
+    "timeWeek": 131,
+    "timeMonth": 163,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "个人网站",
     "url": "https://tutulifestyle.com/product/",
     "icon": "https://favicons.githubusercontent.com/tutulifestyle.com",
     "slug": "",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 56,
-    "timeWeek": 148,
-    "timeMonth": 156,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "time": 358,
+    "timeDay": 40,
+    "timeWeek": 132,
+    "timeMonth": 151,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   }
 ]
