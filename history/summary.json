@@ -4,18 +4,20 @@
     "url": "https://tutulifestyle.com",
     "icon": "https://favicons.githubusercontent.com/tutulifestyle.com",
     "slug": "linktree",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 91,
-    "timeWeek": 143,
-    "timeMonth": 160,
-    "timeYear": 170,
-    "dailyMinutesDown": {}
+    "time": 349,
+    "timeDay": 7847,
+    "timeWeek": 1689,
+    "timeMonth": 614,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2022-06-20": 2
+    }
   },
   {
     "name": "个人网站",
@@ -24,8 +26,8 @@
     "slug": "",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
@@ -33,6 +35,8 @@
     "timeWeek": 120,
     "timeMonth": 149,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-20": 2
+    }
   }
 ]
